@@ -12,10 +12,9 @@ my-blog/
 ├── _posts/                      # 博客文章目录
 │   ├── 2024-12-06-01post.md     # 笔记文章，带有分类和标签
 ├── _layouts/                    # 页面布局文件
-│   ├── default.html             # 默认布局文件
 │   ├── category.html            # 分类页面布局
 ├── categories/                  # 分类页面目录
-│   ├── systemsbio.html                # 系统生物学分类页面
+│   ├── systemsbio.html          # 系统生物学分类页面
 ├── _includes/                   # 可复用的 HTML 片段
 │   └── header.html              # 头部模板（可选）
 ├── _config.yml                  # Jekyll 配置文件，定义站点参数
