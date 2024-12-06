@@ -1,0 +1,7 @@
+title: "我的博客"
+description: "keep going:)"
+baseurl: ""                      # 如果托管在子路径下，设置路径（如 /blog）
+url: "https://star-xinyi.github.io" # 你的 GitHub Pages URL
+theme: minima                    # 使用的 Jekyll 主题
+markdown: kramdown               # Markdown 渲染器
+paginate: 5                      # 每页显示文章数
