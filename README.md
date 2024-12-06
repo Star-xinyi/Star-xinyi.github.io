@@ -8,9 +8,9 @@
 my-blog/
 ├── .github/
 │   └── workflows/
-│       └── jekyll.yml           # 自动生成的 GitHub Actions 配置文件
+│       └── jekyll-gh-pages.yml  # 自动生成的 GitHub Actions 配置文件
 ├── _posts/                      # 博客文章目录
-│   ├── 2024-12-06-my-first-post.md  # 示例文章，带有分类和标签
+│   ├── 2024-12-06-01post.md     # 笔记文章，带有分类和标签
 ├── _layouts/                    # 页面布局文件
 │   ├── default.html             # 默认布局文件
 │   ├── category.html            # 分类页面布局
