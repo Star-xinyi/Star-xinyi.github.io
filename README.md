@@ -11,7 +11,6 @@ my-blog/
 │       └── jekyll.yml           # 自动生成的 GitHub Actions 配置文件
 ├── _posts/                      # 博客文章目录
 │   ├── 2024-12-06-my-first-post.md  # 示例文章，带有分类和标签
-│   ├── 2024-12-07-another-post.md   # 另一篇文章
 ├── _layouts/                    # 页面布局文件
 │   ├── default.html             # 默认布局文件
 │   ├── category.html            # 分类页面布局
